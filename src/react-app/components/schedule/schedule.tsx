@@ -2,10 +2,10 @@ import "./schedule.css";
 
 function Schedule() {
   const openingHours = [
-    { day: "Mandag", hours: "17.30-19.30" },
-    { day: "Tirsdag", hours: "LUKKET" },
-    { day: "Onsdag", hours: "17.30-19.30" },
-    { day: "Torsdag", hours: "LUKKET" },
+    { day: "Mandag", hours: "LUKKET" },
+    { day: "Tirsdag", hours: "17.30-19.00" },
+    { day: "Onsdag", hours: "LUKKET" },
+    { day: "Torsdag", hours: "17.30-19.00" },
     { day: "Fredag", hours: "LUKKET" },
     { day: "Lørdag", hours: "10.00-12.00" },
     { day: "Søndag", hours: "LUKKET" },
