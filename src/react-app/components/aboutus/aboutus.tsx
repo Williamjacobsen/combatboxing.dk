@@ -33,7 +33,7 @@ function AboutUs() {
           <FaPhoneAlt className="icon" /> Tlf. 41 11 90 69
         </p>
         <p>
-          <FaEnvelope className="icon" /> lillebroendumureren@icloud.com
+          <FaEnvelope className="icon" /> lillebroendummureren@icloud.com
         </p>
       </div>
 
